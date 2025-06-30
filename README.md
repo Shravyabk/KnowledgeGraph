@@ -57,3 +57,9 @@ Execution Steps:
       **  python blt_integration/visualize.py
       **  python blt_integration/evaluate.py
       **  python blt_integration/graph.py
+
+
+Flowchart:
+
+   ![KGG drawio](https://github.com/user-attachments/assets/02c0ca90-c38f-498f-b663-9a3341da075f)
+
