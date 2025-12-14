@@ -1,6 +1,6 @@
 # 🧠 Sentence Boundary Detection in Knowledge Graphs via Entropy
 
-> **Hackathon Project | Team Datanauts**
+
 
 This project explores the problem of detecting **sentence boundaries** without relying on raw text or punctuation. Instead, we build a **Knowledge Graph (KG)** from SVO (Subject-Verb-Object) triplets and train a model to identify sentence limits using **entropy-based traversal**.
 
